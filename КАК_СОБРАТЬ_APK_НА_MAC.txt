@@ -1,0 +1,11 @@
+ГЕВОРК БИЛЬЯРДИНСКИЙ 4.1 — ГИТХАБ БЕЗ ANDROID STUDIO
+
+1. Создай НОВЫЙ репозиторий на github.com/new (Private).
+2. Распакуй ZIP, загрузи содержимое: app, build.gradle, gradle.properties, settings.gradle, README.md.
+3. Если скрытая папка .github не переносится Chrome: Add file → Create new file.
+4. Имя нового файла: .github/workflows/build-apk.yml
+5. Скопируй ВЕСЬ текст из ГОТОВЫЙ_BUILD_APK_YML.txt, вставь и нажми Commit changes.
+6. Actions → Build Gevork Billiardinsky v4.1 APK → зелёная галочка → Artifacts.
+7. Скачай Gevork-Billiardinsky-v4.1-APK, распакуй, установи app-debug.apk.
+
+ВНИМАНИЕ: Две мыши обычно управляют ОДНИМ курсором, а не двумя независимо.
